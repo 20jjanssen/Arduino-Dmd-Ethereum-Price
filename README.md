@@ -43,8 +43,8 @@
   
   Upload the DMD.ino file to your Arduino
   
-  Open up your favorite text editing program, and change the serial port in the DMD.rb file to whatever port your arduino is on
+  Open up your favorite text editing program, and change the serial port in the ethprice.rb file to whatever port your arduino is on
   
-  Run DMD.rb: ```ruby DMD.rb```
+  Run DMD.rb: ```ruby ethprice.rb```
   
   
