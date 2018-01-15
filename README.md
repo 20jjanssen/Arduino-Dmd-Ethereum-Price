@@ -1,4 +1,8 @@
 # Ethereum price ticker display for Freetronics arduino DMD display
+
+![alt text](https://imgur.com/wisQsRs.gif "DMD")
+
+
 ## Hardware required for this project:
 
   1x Arduino Uno (https://store.arduino.cc/usa/arduino-uno-rev3)
