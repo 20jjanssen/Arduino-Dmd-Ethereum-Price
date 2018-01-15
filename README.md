@@ -28,7 +28,9 @@ Hardware required for this project:
   
   Install cryptocompare: ```sudo gem install cryptocompare```
   
-  Clone this Repo, and cd into it: ```git clone https://github.com/20jjanssen/Arduino-Dmd-Ethereum-Price.git & cd Arduino-Dmd-Ethereum-Price```
+  Clone this Repo, and cd into it: ```git clone https://github.com/20jjanssen/Arduino-Dmd-Ethereum-Price.git```
+  
+  Cd in to the cloned repo: ```cd Arduino-Dmd-Ethereum-Price```
   
   Open up your Arduino IDE and plug in your Arduino uno to a spare USB port on your computer
   
