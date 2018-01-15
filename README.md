@@ -38,6 +38,6 @@ Hardware required for this project:
   
   Open up your favorite text editing program, and change the serial port in the DMD.rb file to whatever port your arduino is on
   
-  Run the DMD.rb: ```ruby DMD.rb```
+  Run DMD.rb: ```ruby DMD.rb```
   
   
