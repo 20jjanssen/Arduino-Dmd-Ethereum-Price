@@ -5,6 +5,8 @@
   
   1x Freetronics DMD for Arduino (https://www.freetronics.com.au/products/dot-matrix-display-32x16-red#.Wlr9hiOPBFx)
   
+  1x Computer running a *NIX based OS
+  
   
  ## Software required:
   Ruby
