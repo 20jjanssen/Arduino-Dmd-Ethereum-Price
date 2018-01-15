@@ -1,7 +1,10 @@
 # Ethereum price ticker display for Freetronics arduino DMD display
 Hardware required for this project:
+
   1x Arduino Uno (https://store.arduino.cc/usa/arduino-uno-rev3)
+  
   1x Freetronics DMD for Arduino (https://www.freetronics.com.au/products/dot-matrix-display-32x16-red#.Wlr9hiOPBFx)
+  
   
  ## Software required:
   Ruby
