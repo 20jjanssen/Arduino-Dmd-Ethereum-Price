@@ -18,6 +18,8 @@ Hardware required for this project:
   
   Terminal or your choice
   
+  Text editor of your choice
+  
   
  ## Installation instructions
   Install Arduino IDE if you do not already have it installed: https://www.arduino.cc/en/Main/Software
