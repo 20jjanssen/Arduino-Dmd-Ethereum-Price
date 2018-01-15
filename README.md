@@ -1,6 +1,6 @@
 # Ethereum price ticker display for Freetronics arduino DMD display
 
-![alt text](https://imgur.com/wisQsRs.gif "DMD")
+Gif: https://imgur.com/wisQsRs
 
 
 ## Hardware required for this project:
